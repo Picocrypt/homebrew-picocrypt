@@ -19,4 +19,4 @@ Since the app is not signed by an Apple Developer key, you will need to follow [
 Thank you to [@vraravam](https://github.com/vraravam) for creating this cask!
 
 ## Updates
-If I release a new version of Picocrypt but seemed to forget updating this cask, feel free to open a PR and mention me.
+If I release a new version of Picocrypt but seemed to forget updating this cask, feel free to create an issue in Picocrypt/Picocrypt with prefix `Homebrew:`.
